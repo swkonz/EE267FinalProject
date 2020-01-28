@@ -29,7 +29,6 @@
 
 ## Hololens Demo
 - The hololens demo project is a Unity project which is larger than 100Mb, and thus cannot be stored on Github.
-- The full hololens project can be found here: https://drive.google.com/file/d/1p8-3mWUsgZpuyA5LiQkw2ZQAFjw5Kgw-/view?usp=sharing
 - We chose to revert to an earlier version of the Microsoft Hololens toolkit rather than the Mixed Reality Toolkit since there was seemingly better support for gesture input within unity scripts
 - To run the unity project for the hololens, the following dependencies are required:
 	- A Windows 10 machine
